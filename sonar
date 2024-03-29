@@ -1,6 +1,6 @@
 sonar.verbose=true
-sonar-organization=jenkinsonar-key
-sonar.projectKey=jenkinsonar-key_twittertrend
+sonar-organization=jenkinsonar
+sonar.projectKey=jenkinsonar_twittertrend
 sonar.projectName=twittertrend
 sonar.language=java
 sonar.sourceEncoding=UTF-8
